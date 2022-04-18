@@ -1,25 +1,21 @@
-## Welcome to freya wang's world
+## Welcome to Freya wang's world
 
-You can use the [editor on GitHub](https://github.com/freyawang9811/freyawang9811.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Let us know more about Freya!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current News
 
-### Recent News
+### Personal Information
 
+### Research Interests
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Project Research
 
-- Bulleted
-- List
+### Research papers
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
